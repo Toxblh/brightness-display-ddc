@@ -1,0 +1,7 @@
+{
+    "scripts": {
+        "prebuild": "rm -f ./brightness-display-ddc@toxblh.github.com.shell-extension.zip ",
+        "build": "gnome-extensions pack ./src",
+        "postbuild": "gnome-extensions install ./brightness-display-ddc@toxblh.github.com.shell-extension.zip --force"
+    }
+}

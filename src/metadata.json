@@ -1,0 +1,9 @@
+{
+    "name": "Brightness Display DDC",
+    "description": "Control brightness for external monitors via ddc",
+    "uuid": "brightness-display-ddc@toxblh.github.com",
+    "version": 1,
+    "url": "https://github.com/toxblh/brightness-display-ddc",
+    "shell-version": ["3.36"]
+
+}
